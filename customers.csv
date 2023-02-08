@@ -1,0 +1,6 @@
+email,firstname,lastname,region_code,region,postcode,street,telephone,country_id,password
+customer1@example.com,Hasan,Dweik,NY,New York,10001,123 Main St,555-555-5555,US,password123
+customer2@example.com,Jane,Doe,CA,California,90210,456 Main St,555-555-5556,US,password456
+customer3@example.com,Bob,Smith,TX,Texas,78705,789 Main St,555-555-5557,US,password789
+customer4@example.com,Alice,Johnson,FL,Florida,33101,246 Main St,555-555-5558,US,password246
+customer5@example.com,Charlie,Brown,IL,Illinois,60601,369 Main St,555-555-5559,US,password369
